@@ -1,0 +1,8 @@
+left off to continue ...
+Let's build out the certificate PDF download next  
+
+we need interface to build material
+   basically prompts to populate a Reading pages that will covers questions that will e asked in the test
+   also interface to build questions for the test
+   and automatcally calculates result/percentage to pass o fail the test
+   there could be multiple tests, each of a learning document or topic
